@@ -26,7 +26,7 @@ public class Init {
         String s2 = TaskSeven.name("Пидр");
         System.out.println("Привет " + s2);
 
-        boolean s3 = TaskEight.taskEight(900);
+        boolean s3 = TaskEight.taskEight(1300);
         System.out.println(s3);
     }
 
