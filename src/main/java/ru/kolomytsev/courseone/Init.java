@@ -11,22 +11,22 @@ public class Init {
         char c = 'c';
         String g = "no";
 
-        float g1 = TaskOne.exampleOne(f, f, f, f);
-        System.out.println(g1);
+//        float g1 = TaskOne.exampleOne(f, f, f, f);
+//        System.out.println(g1);
+//
+//        boolean w = TaskTwo.within(5,2);
+//        System.out.println(w);
+//
+//        String z = TaskFive.taskFife(-5);
+//        System.out.println(z);
+//
+//        boolean w2 = TaskSix.taskSix(-5);
+//        System.out.println(w2);
+//
+//        String s2 = TaskSeven.name("Пидр");
+//        System.out.println("Привет " + s2);
 
-        boolean w = TaskTwo.within(5,2);
-        System.out.println(w);
-
-        String z = TaskFive.taskFife(-5);
-        System.out.println(z);
-
-        boolean w2 = TaskSix.taskSix(-5);
-        System.out.println(w2);
-
-        String s2 = TaskSeven.name("Пидр");
-        System.out.println("Привет " + s2);
-
-        boolean s3 = TaskEight.taskEight(1300);
+        boolean s3 = TaskEight.taskEight(2004);
         System.out.println(s3);
     }
 
