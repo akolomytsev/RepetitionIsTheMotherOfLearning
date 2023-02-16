@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54726852-20a1-44bd-9837-36a159f95eda" name="Changes" comment="Сделал второе задание третьего урока">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursefour/TicTacToe.java" afterDir="false" />
+    <list default="true" id="54726852-20a1-44bd-9837-36a159f95eda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursefive/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursefive/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +45,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TicTacToe">
-    <configuration name="TaskFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.coursetwo.TaskFour" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.coursefive.Main" />
       <module name="RepetitionIsTheMotherOfLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.coursetwo.*" />
+          <option name="PATTERN" value="ru.kolomytsev.coursefive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.TaskTwo" />
         <item itemvalue="Application.TaskOne" />
         <item itemvalue="Application.TaskSeven" />
-        <item itemvalue="Application.TaskFour" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676305148352</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Сделал крестики нолики, ввел отдельную функцию выбора размера поля, но не смог сделать выигрыш в 3 клетки.">
+      <created>1676557740414</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676557740414</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +180,7 @@
     <MESSAGE value="Недоделал восьмое задание.&#10;Добавил задание со второго урока." />
     <MESSAGE value="Недоделал восьмое задание.&#10;Добавил задание со второго урока.&#10;Доделал про високосный год, не получилось задание 6 урока 2" />
     <MESSAGE value="Сделал второе задание третьего урока" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал второе задание третьего урока" />
+    <MESSAGE value="Сделал крестики нолики, ввел отдельную функцию выбора размера поля, но не смог сделать выигрыш в 3 клетки." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал крестики нолики, ввел отдельную функцию выбора размера поля, но не смог сделать выигрыш в 3 клетки." />
   </component>
 </project>
