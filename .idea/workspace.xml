@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54726852-20a1-44bd-9837-36a159f95eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursethrie/TaskOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursethrie/TaskTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursetwo/TaskSeven.java" afterDir="false" />
+    <list default="true" id="54726852-20a1-44bd-9837-36a159f95eda" name="Changes" comment="Сделал второе задание третьего урока">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursefour/TicTacToe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/courseone/Init.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/courseone/Init.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursetwo/TaskSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursetwo/TaskSix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TaskTwo">
-    <configuration name="Init" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.courseone.Init" />
-      <module name="RepetitionIsTheMotherOfLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.courseone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="TaskFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.coursetwo.TaskFour" />
       <module name="RepetitionIsTheMotherOfLearning" />
@@ -115,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.coursefour.TicTacToe" />
+      <module name="RepetitionIsTheMotherOfLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.kolomytsev.coursefour.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.TaskTwo" />
         <item itemvalue="Application.TaskOne" />
         <item itemvalue="Application.TaskSeven" />
         <item itemvalue="Application.TaskFour" />
-        <item itemvalue="Application.Init" />
       </list>
     </recent_temporary>
   </component>
@@ -162,13 +157,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675873321401</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Сделал второе задание третьего урока">
+      <created>1676305148352</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676305148352</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Недоделал восьмое задание." />
     <MESSAGE value="Недоделал восьмое задание.&#10;Добавил задание со второго урока." />
     <MESSAGE value="Недоделал восьмое задание.&#10;Добавил задание со второго урока.&#10;Доделал про високосный год, не получилось задание 6 урока 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Недоделал восьмое задание.&#10;Добавил задание со второго урока.&#10;Доделал про високосный год, не получилось задание 6 урока 2" />
+    <MESSAGE value="Сделал второе задание третьего урока" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал второе задание третьего урока" />
   </component>
 </project>
