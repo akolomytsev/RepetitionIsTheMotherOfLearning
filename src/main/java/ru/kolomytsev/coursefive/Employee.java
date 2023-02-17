@@ -99,5 +99,9 @@ public class Employee {
         System.out.print(salary);
     }
 
+    public String info(){
+        return String.format("Employee{name=%s, surname=%s, fullName=%s, age=%s, jobTitle=%s, email=%s, telephone=%s, slsry=%s}",name, surname, fullName, age, jobTitle, email,telephone, salary);
+    }
+
 
 }

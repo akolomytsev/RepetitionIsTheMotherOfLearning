@@ -13,10 +13,11 @@ public class Main {
         //mike.informationEmployee();
 
 
-        for (int i = 0; i < persons.length; i++) {
-            if (persons[i].getAge() > 40){
-                persons[i].informationEmployee();
+        for (Employee person : persons) {
+            if (person.getAge() > 40) {
+                person.informationEmployee();
                 System.out.println();
+                System.out.println(person.info());
             }
 
         }
