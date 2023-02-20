@@ -1,8 +1,10 @@
 package ru.kolomytsev.coursesix;
 
 public class Dog extends Animal{
-    public Dog(String name) {
-        super(name, 500, 10);
+    public Dog(CounterAnimal counter, String name) {
+
+        super(counter, name, 500, 10);
+        counter.incrementDog();
     }
 
 }

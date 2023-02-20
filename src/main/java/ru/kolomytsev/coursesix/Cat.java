@@ -1,8 +1,9 @@
 package ru.kolomytsev.coursesix;
 
 public class Cat extends Animal{
-    public Cat(String name) {
-        super(name, 200, 0);
+    public Cat(CounterAnimal counter, String name) {
+        super(counter, name, 200, 0);
+        counter.incrementCat();
     }
 
     @Override

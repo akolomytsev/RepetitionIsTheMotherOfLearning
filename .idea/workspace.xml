@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54726852-20a1-44bd-9837-36a159f95eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/CounterAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/zavod/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/zavod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/zavod/Men.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/zavod/SKB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/zavod/Women.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursefive/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursefive/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursefive/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursefive/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,26 +53,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ru.kolomytsev.coursesix.Main">
+  <component name="RunManager" selected="Application.ru.kolomytsev.coursesix.zavod.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.coursefive.Main" />
       <module name="RepetitionIsTheMotherOfLearning" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.kolomytsev.coursefive.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.coursethrie.TaskOne" />
-      <module name="RepetitionIsTheMotherOfLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.coursethrie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.kolomytsev.coursesix.zavod.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.coursesix.zavod.Main" />
+      <module name="RepetitionIsTheMotherOfLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.kolomytsev.coursesix.zavod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.kolomytsev.coursesix.zavod.Main" />
         <item itemvalue="Application.ru.kolomytsev.coursesix.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.TaskTwo" />
-        <item itemvalue="Application.TaskOne" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676566572043</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Почти понял задание с урока 6">
+      <created>1676649314000</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676649314000</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,6 +204,7 @@
     <MESSAGE value="Сделал второе задание третьего урока" />
     <MESSAGE value="Сделал крестики нолики, ввел отдельную функцию выбора размера поля, но не смог сделать выигрыш в 3 клетки." />
     <MESSAGE value="Сделал задание с урока 5 (ООП введение)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал задание с урока 5 (ООП введение)" />
+    <MESSAGE value="Почти понял задание с урока 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Почти понял задание с урока 6" />
   </component>
 </project>

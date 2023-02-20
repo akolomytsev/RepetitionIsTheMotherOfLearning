@@ -2,8 +2,12 @@ package ru.kolomytsev.coursesix;
 
 public class Main {
     public static void main(String[] args) {
-        Cat kitty = new Cat("Vasilisa");
-        Dog doggy = new Dog("Barmalei");
+        CounterAnimal counterAnimal = new CounterAnimal();
+        Cat kitty = new Cat(counterAnimal, "Vasilisa");
+        System.out.println("Всего кошек: " + kitty.getCounter().getCatCounter());
+        Dog doggy = new Dog(counterAnimal, "Barmalei");
+        System.out.println("Всего собак" + doggy.getCounter().getDogCounter());
+        System.out.println("Всего животных" + kitty.getCounter().getAnimalCounter());
 
         kitty.run(190);
         doggy.run(450);
