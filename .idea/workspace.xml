@@ -4,40 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54726852-20a1-44bd-9837-36a159f95eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/seven/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/seven/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/seven/Plate.java" afterDir="false" />
+    <list default="true" id="54726852-20a1-44bd-9837-36a159f95eda" name="Changes" comment="Сделал седьмое задание! Почти сам!">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/eightCalculator/CalculationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/eightCalculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/eightCalculator/DigitButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/eightCalculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursefive/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/five/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursefive/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/five/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursefour/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/four/TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/courseone/Init.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/Init.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/courseone/TaskEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskEight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/courseone/TaskFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/courseone/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/courseone/TaskSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskSeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/courseone/TaskSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskSix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/courseone/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/CounterAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/CounterAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/zavod/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/zavod/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/zavod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/zavod/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/zavod/Men.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/zavod/Men.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/zavod/SKB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/zavod/SKB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursesix/zavod/Women.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/zavod/Women.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursethrie/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/thrie/TaskOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursethrie/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/thrie/TaskTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursetwo/TaskFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursetwo/TaskFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskFour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursetwo/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursetwo/TaskSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskSeven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursetwo/TaskSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskSix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursetwo/TaskThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/coursetwo/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/five/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/five/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/five/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/five/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/four/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/four/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/Init.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/one/Init.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/one/TaskEight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/one/TaskFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/one/TaskOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/one/TaskSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/one/TaskSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/one/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/one/TaskTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/seven/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/seven/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/seven/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/seven/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/seven/Plate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/seven/Plate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/six/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/six/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/CounterAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/six/CounterAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/six/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/six/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/zavod/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/six/zavod/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/zavod/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/six/zavod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/zavod/Men.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/six/zavod/Men.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/zavod/SKB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/six/zavod/SKB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/six/zavod/Women.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/six/zavod/Women.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/thrie/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/thrie/TaskOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/thrie/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/thrie/TaskTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/two/TaskFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/two/TaskFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/two/TaskOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskSeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/two/TaskSeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/two/TaskSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/two/TaskThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/two/TaskTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course1/two/TaskTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +81,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ru.kolomytsev.course.seven.Main">
+  <component name="RunManager" selected="Application.ru.kolomytsev.course.eight.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.coursefive.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course1.eightCalculator.Main" />
       <module name="RepetitionIsTheMotherOfLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.coursefive.*" />
+          <option name="PATTERN" value="ru.kolomytsev.course1.eightCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.coursefour.TicTacToe" />
+    <configuration name="Mani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course.eightCalculator.Mani" />
       <module name="RepetitionIsTheMotherOfLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.coursefour.*" />
+          <option name="PATTERN" value="ru.kolomytsev.course1.eightCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.kolomytsev.course.seven.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course.seven.Main" />
+    <configuration name="ru.kolomytsev.course1.seven.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course1.seven.Main" />
       <module name="RepetitionIsTheMotherOfLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.course.seven.*" />
+          <option name="PATTERN" value="ru.kolomytsev.course1.seven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ru.kolomytsev.course.seven.Main" />
+        <item itemvalue="Application.ru.kolomytsev.course.eight.Main" />
+        <item itemvalue="Application.Mani" />
+        <item itemvalue="Application.ru.kolomytsev.course1.seven.Main" />
         <item itemvalue="Application.ru.kolomytsev.coursesix.zavod.Main" />
         <item itemvalue="Application.ru.kolomytsev.coursesix.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TicTacToe" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676893603621</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Сделал седьмое задание! Почти сам!">
+      <created>1676905638785</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676905638785</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -235,17 +248,7 @@
     <MESSAGE value="Сделал задание с урока 5 (ООП введение)" />
     <MESSAGE value="Почти понял задание с урока 6" />
     <MESSAGE value="Сделал счетчик, но не совсем понимаю как он работает." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал счетчик, но не совсем понимаю как он работает." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/kolomytsev/course/seven/Cat.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Сделал седьмое задание! Почти сам!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал седьмое задание! Почти сам!" />
   </component>
 </project>
