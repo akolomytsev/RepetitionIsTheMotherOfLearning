@@ -1,14 +1,14 @@
-package ru.kolomytsev.course2.one;
+package ru.kolomytsev.course2.one2;
 
-public class Human implements Participant{
+public class Robot implements Participant{
     private final String name;
     private static int counter = 0;
     private final int jumpingAbility = (int) (Math.random()*100+1+50);
 
     private final int endurance = (int) (Math.random()*100+1+50);
-    public Human() {
+    public Robot() {
         counter++;
-        name = "Human " + counter;
+        name = "Robot " + counter;
     }
 
     @Override

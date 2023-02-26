@@ -1,4 +1,4 @@
-package ru.kolomytsev.course2.one;
+package ru.kolomytsev.course2.one2;
 
 public class Main {
     public static void main(String[] args) {
@@ -6,7 +6,12 @@ public class Main {
                 new Cat(),
                 new Cat(),
                 new Cat(),
-                new Human()
+                new Human(),
+                new Human(),
+                new Human(),
+                new Robot(),
+                new Robot(),
+                new Robot()
         };
 
         Obstacle[] obstacles = {

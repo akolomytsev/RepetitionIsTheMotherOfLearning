@@ -1,14 +1,14 @@
 package ru.kolomytsev.course2.one;
 
-public class Human implements Participant{
+public class Cat implements Participant{
     private final String name;
     private static int counter = 0;
     private final int jumpingAbility = (int) (Math.random()*100+1+50);
 
     private final int endurance = (int) (Math.random()*100+1+50);
-    public Human() {
+    public Cat() {
         counter++;
-        name = "Human " + counter;
+        name = "Cat " + counter;
     }
 
     @Override
