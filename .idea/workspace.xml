@@ -5,27 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54726852-20a1-44bd-9837-36a159f95eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Jump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Participant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Treadmill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Jump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Participant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Treadmill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Road.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Athletes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Obstacle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Pit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Run.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Jump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Jump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Obstacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Obstacle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Participant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Participant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Treadmill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one2/Wall.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,20 @@
       <recent name="D:\Java\Проекты\RepetitionIsTheMotherOfLearning\src\main\java\ru\kolomytsev\course2\one2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ru.kolomytsev.course2.one2.Main">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.one3.Main" />
+      <module name="RepetitionIsTheMotherOfLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.kolomytsev.course2.one3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Mani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course.eightCalculator.Mani" />
       <module name="RepetitionIsTheMotherOfLearning" />
@@ -84,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.kolomytsev.course1.seven.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course1.seven.Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.one2.Test" />
       <module name="RepetitionIsTheMotherOfLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.course1.seven.*" />
+          <option name="PATTERN" value="ru.kolomytsev.course2.one2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,26 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.kolomytsev.coursesix.zavod.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.coursesix.zavod.Main" />
-      <module name="RepetitionIsTheMotherOfLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.coursesix.zavod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ru.kolomytsev.course2.one2.Main" />
         <item itemvalue="Application.ru.kolomytsev.course2.one.Main" />
         <item itemvalue="Application.Mani" />
-        <item itemvalue="Application.ru.kolomytsev.course1.seven.Main" />
-        <item itemvalue="Application.ru.kolomytsev.coursesix.zavod.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677055153514</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Сделал первое задание второго курса. Данные о пользователе передаются в препятствия и идет проверка, прошел не прошел. Надо сделать вторую версию и передавать данные о препятствии пользователю и там делать проверку.">
+      <created>1677394192068</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677394192068</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -246,6 +254,7 @@
     <MESSAGE value="Сделал счетчик, но не совсем понимаю как он работает." />
     <MESSAGE value="Сделал седьмое задание! Почти сам!" />
     <MESSAGE value="Сделал калькулятор, можно расширить до инженерного, с расчетом приоритетов." />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделал калькулятор, можно расширить до инженерного, с расчетом приоритетов." />
+    <MESSAGE value="Сделал первое задание второго курса. Данные о пользователе передаются в препятствия и идет проверка, прошел не прошел. Надо сделать вторую версию и передавать данные о препятствии пользователю и там делать проверку." />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал первое задание второго курса. Данные о пользователе передаются в препятствия и идет проверка, прошел не прошел. Надо сделать вторую версию и передавать данные о препятствии пользователю и там делать проверку." />
   </component>
 </project>
