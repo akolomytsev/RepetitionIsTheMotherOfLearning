@@ -8,7 +8,7 @@ public class Wall  implements Obstacle{
     @Override
     public boolean passedTheObstacle(Participant participant) {
         if (height <= participant.jump()){
-            System.out.printf("Пользователь с именем %s перепрыгнул преграду%n", participant.getName());
+            System.out.printf("Пользователь с именем %s перепрыгнул преграду%s%n", participant.getName(), height);
             return true;
         }
         System.out.printf("Пользователь с именем %s выбыл из соревнований%n", participant.getName());

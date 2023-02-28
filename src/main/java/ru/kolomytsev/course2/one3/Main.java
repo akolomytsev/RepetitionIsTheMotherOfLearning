@@ -15,11 +15,10 @@ public class Main {
 
         for (Athletes athletes1 : athletes) {
             for (Obstacle obstacle : obstacles) {
-                if (!obstacle.action(athletes1)){
+                if (!athletes1.obstacle(obstacle)){
                     break;
                 }
             }
-
         }
 
 

@@ -6,7 +6,7 @@ public class Road implements Obstacle{
     @Override
     public boolean passedTheObstacle(Participant participant) {
         if (size <= participant.jump()){
-            System.out.printf("Пользователь с именем %s пробежал дорогу%n", participant.getName());
+            System.out.printf("Пользователь с именем %s пробежал дорогу%s%n", participant.getName(), size);
             return true;
         }
         System.out.printf("Пользователь с именем %s выбыл из соревнований%n", participant.getName());

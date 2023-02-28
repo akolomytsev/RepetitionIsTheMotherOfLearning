@@ -10,8 +10,6 @@ public class Human implements Athletes {
         counter++;
         name = "Human # " + counter;
     }
-
-
     @Override
     public int jump() {
         return jumpLimit;
@@ -22,8 +20,18 @@ public class Human implements Athletes {
         return runLimit;
     }
 
+//    @Override
+//    public String getName() {
+//        return name;
+//    }
+
     @Override
-    public String name() {
-        return name;
+    public boolean obstacle(Obstacle obstacle) {
+        if (runLimit >= obstacle.getSize()){
+            System.out.printf("Атлет с именем %s пробежал дистанцию длинной %s%n", name, obstacle.getSize());
+            return true;
+        }
+        System.out.printf("Атлет с именем %s не пробежал дистанцию длинной %s%n", name, obstacle.getSize());
+        return false;
     }
 }
