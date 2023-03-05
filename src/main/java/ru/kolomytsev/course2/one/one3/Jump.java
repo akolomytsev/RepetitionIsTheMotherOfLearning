@@ -1,4 +1,4 @@
-package ru.kolomytsev.course2.one3;
+package ru.kolomytsev.course2.one.one3;
 
 public interface Jump {
     int jump();

@@ -1,4 +1,4 @@
-package ru.kolomytsev.course2.one2;
+package ru.kolomytsev.course2.one.one2;
 
 public class Road implements Obstacle{
     private static int size = ((int) (Math.random() * 100+1));

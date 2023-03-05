@@ -1,4 +1,4 @@
-package ru.kolomytsev.course2.one3;
+package ru.kolomytsev.course2.one.one3;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,19 +8,18 @@ public class Main {
                 new Robot()
         };
 
-        Obstacle[]obstacles = {
+        Obstacle[] obstacles = {
                 new Pit(),
                 new Distance()
         };
 
         for (Athletes athletes1 : athletes) {
             for (Obstacle obstacle : obstacles) {
-                if (!athletes1.obstacle(obstacle)){
+                if (!athletes1.obstacle(obstacle)) {
+                    System.out.println("Сошел с дистанции");
                     break;
                 }
             }
         }
-
-
     }
 }

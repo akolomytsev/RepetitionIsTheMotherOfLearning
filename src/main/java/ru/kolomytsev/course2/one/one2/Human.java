@@ -1,4 +1,4 @@
-package ru.kolomytsev.course2.one2;
+package ru.kolomytsev.course2.one.one2;
 
 public class Human implements Participant{
     private final String name;
