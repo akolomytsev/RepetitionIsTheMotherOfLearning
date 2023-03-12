@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54726852-20a1-44bd-9837-36a159f95eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/onemult/Argument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/onemult/BinaryExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/onemult/Diff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/onemult/Div.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/onemult/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/onemult/Mul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/onemult/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/onemult/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/two/Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/two/ArrayOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/two/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/two/MyArraySizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/kolomytsev/course2/two/ArrayOfWordsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Athletes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Athletes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Distance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Distance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Obstacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Obstacle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Pit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Pit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kolomytsev/course2/one3/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +24,8 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit3 Test Class" />
       </list>
     </option>
   </component>
@@ -58,6 +51,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Java/Проекты/RepetitionIsTheMotherOfLearning/src/main/java/ru/kolomytsev/course2/one2&quot;
   }
 }</component>
@@ -65,14 +61,21 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\Проекты\RepetitionIsTheMotherOfLearning\src\main\java\ru\kolomytsev\course2\one2" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.kolomytsev.course2.two" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.one3.Main" />
+  <component name="RunManager" selected="Application.ru.kolomytsev.course2.two.Main">
+    <configuration name="ru.kolomytsev.course2.two.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.two.Main" />
       <module name="RepetitionIsTheMotherOfLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.course2.one3.*" />
+          <option name="PATTERN" value="ru.kolomytsev.course2.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,65 +83,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.one2.Test" />
+    <configuration name="ArrayOfWordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RepetitionIsTheMotherOfLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.course2.one2.*" />
+          <option name="PATTERN" value="ru.kolomytsev.course2.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.kolomytsev.course2.two" />
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.two.ArrayOfWordsTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.kolomytsev.course2.one2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.one2.Main" />
+    <configuration name="ArrayOfWordsTest.testArrayOf1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RepetitionIsTheMotherOfLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.course2.one2.*" />
+          <option name="PATTERN" value="ru.kolomytsev.course2.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.kolomytsev.course2.two" />
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.two.ArrayOfWordsTest" />
+      <option name="METHOD_NAME" value="testArrayOf1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.kolomytsev.course2.one.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.one.Main" />
+    <configuration name="ArrayOfWordsTest.testArrayOf2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RepetitionIsTheMotherOfLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.course2.one.*" />
+          <option name="PATTERN" value="ru.kolomytsev.course2.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.kolomytsev.course2.two" />
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.two.ArrayOfWordsTest" />
+      <option name="METHOD_NAME" value="testArrayOf2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.kolomytsev.course2.onemult.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.onemult.Test" />
+    <configuration name="ArrayOfWordsTest.testArrayOfSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RepetitionIsTheMotherOfLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.kolomytsev.course2.onemult.*" />
+          <option name="PATTERN" value="ru.kolomytsev.course2.two.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.kolomytsev.course2.two" />
+      <option name="MAIN_CLASS_NAME" value="ru.kolomytsev.course2.two.ArrayOfWordsTest" />
+      <option name="METHOD_NAME" value="testArrayOfSum" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ru.kolomytsev.course2.one.Main" />
-        <item itemvalue="Application.ru.kolomytsev.course2.onemult.Test" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ru.kolomytsev.course2.one2.Main" />
+        <item itemvalue="Application.ru.kolomytsev.course2.two.Main" />
+        <item itemvalue="JUnit.ArrayOfWordsTest" />
+        <item itemvalue="JUnit.ArrayOfWordsTest.testArrayOf2" />
+        <item itemvalue="JUnit.ArrayOfWordsTest.testArrayOfSum" />
+        <item itemvalue="JUnit.ArrayOfWordsTest.testArrayOf1" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677600819500</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Перевернул задание, теперь проверка о прохождении препятствия приходит участнику. Но этот метод длиннее для понимания.">
+      <created>1677997580333</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677997580333</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -266,6 +287,7 @@
     <MESSAGE value="Сделал первое задание второго курса. Данные о пользователе передаются в препятствия и идет проверка, прошел не прошел. Надо сделать вторую версию и передавать данные о препятствии пользователю и там делать проверку." />
     <MESSAGE value="Почти понял как надо делать." />
     <MESSAGE value="Перевернул задание, теперь проверка на прохождение препятствия происходит в участнике соревнования, а не в препятствии. Но не знаю как реализовать что бы при проверке отличалась яма от дороги, ведь везде передается только размер." />
-    <option name="LAST_COMMIT_MESSAGE" value="Перевернул задание, теперь проверка на прохождение препятствия происходит в участнике соревнования, а не в препятствии. Но не знаю как реализовать что бы при проверке отличалась яма от дороги, ведь везде передается только размер." />
+    <MESSAGE value="Перевернул задание, теперь проверка о прохождении препятствия приходит участнику. Но этот метод длиннее для понимания." />
+    <option name="LAST_COMMIT_MESSAGE" value="Перевернул задание, теперь проверка о прохождении препятствия приходит участнику. Но этот метод длиннее для понимания." />
   </component>
 </project>
